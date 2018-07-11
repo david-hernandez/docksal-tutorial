@@ -30,7 +30,7 @@ $ ls
 
 This alone is now enough to start a project. No configuration files are actually necessary 
 because Docksal has a default configuration stack it will use to manage a project if none is 
-specified. The default stack will project a command container (cli), a web container with Apache, 
+specified. The default stack will create a command container (cli), a web container with Apache, 
 and a database container with MySQL.
 
 To start the project, use the `start` command.
